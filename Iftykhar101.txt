@@ -1,0 +1,6 @@
+//Testing purpose creation of Git 
+
+<?php
+Echo " Greatings "; 
+?>
+
